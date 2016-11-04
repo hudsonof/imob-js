@@ -1,0 +1,5 @@
+# Ignorar pasta node_modules
+/node_modules/
+
+# Ignorar pasta lib (Bower)
+/public/assets/lib/

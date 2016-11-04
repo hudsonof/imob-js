@@ -1,0 +1,8 @@
+{
+  "name": "imob-js",
+  "version": "1.0.0",
+  "dependencies": {
+    "angular": "1.5.8",
+    "angular-route": "1.5.8"
+  }
+}

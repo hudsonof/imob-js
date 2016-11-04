@@ -1,0 +1,22 @@
+{
+  "name": "imob-js",
+  "version": "1.0.0",
+  "description": "Sistema imobiliário",
+  "main": "server.js",
+  "author": "Hudson de Oliveira Felipe",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "consign": "0.1.2",
+    "express": "4.14.0",
+    "mongoose": "4.6.6"
+  },
+  "scripts": {
+    "prestart": "npm install",
+    "start": "nodemon ./bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hudsonof/imob-js.git"
+  }
+}
