@@ -12,8 +12,7 @@
     "mongoose": "4.6.6"
   },
   "scripts": {
-    "prestart": "npm install",
-    "start": "nodemon ./bin/www"
+    "start": "node server"
   },
   "repository": {
     "type": "git",

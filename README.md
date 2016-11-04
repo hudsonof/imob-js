@@ -33,7 +33,15 @@ O código deste projeto está sob a licença [GNU GPL v3](https://www.gnu.org/li
 
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
-    
+
+### Executando o projeto:
+
+Para rodar o projeto basta executar os comandos abaixo:
+
+    bower install
+    npm install
+    npm start
+
 ### Contribuidores ativos: 
 * Hudson de Oliveira Felipe
 
