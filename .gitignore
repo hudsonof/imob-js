@@ -3,3 +3,6 @@
 
 # Ignorar pasta lib (Bower)
 /public/assets/lib/
+
+# Ignorar /.sass-cache
+/.sass-cache

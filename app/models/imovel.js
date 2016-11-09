@@ -5,6 +5,7 @@ var imovelSchema = mongoose.Schema({
     descricao: { type: String, default: '' },
     codigo: { type: String, required: true },
     valor: { type: Number, min: 0, required: true },
+    imagem_principal: { type: String, default: '' },
     data_cadastro: { type: Date, default:  Date.now },
     proprietario: {
         nome: { type: String, required: true },
