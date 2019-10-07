@@ -2,10 +2,10 @@
   "name": "imob-js-api",
   "version": "1.0.0",
   "description": "ImobJS API",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node server.js",
-    "dev": "nodemon server.js"
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
   },
   "repository": {
     "type": "git",
@@ -23,14 +23,9 @@
   },
   "homepage": "https://github.com/hudsonof/imob-js#readme",
   "dependencies": {
-    "body-parser": "^1.18.2",
-    "cookie-parser": "^1.4.3",
-    "cors": "^2.8.4",
-    "express": "^4.16.2",
-    "jsonwebtoken": "^8.1.0",
-    "morgan": "^1.9.0",
-    "mysql": "^2.15.0",
-    "mysql2": "^1.4.2",
-    "sequelize": "^4.13.8"
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.3"
   }
 }
