@@ -4,7 +4,7 @@
 
 O imob-js é um projeto open-source que visa ajudar corretores autônomos e pequenas imobiliárias com um sistema robusto e completo para centralizar e organizar suas atividade no ramo imobiliário.
 
-O projeto foi iniciado e idealizado por *Hudson de Oliveira Felipe* buscando desenvolver suas habilidades no desenvolvimento de sistemas utilizando NodeJS.
+O projeto foi iniciado e idealizado por *Hudson de Oliveira Felipe* buscando desenvolver suas habilidades no desenvolvimento de sistemas utilizando NodeJS e React.
 
 ### Prospecto do projeto:
 - [ ] Front-End baseado em temas.

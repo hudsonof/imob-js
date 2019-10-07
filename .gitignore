@@ -1,5 +1,6 @@
 # Ignorar pasta node_modules
-/node_modules/
+/imob-js-api/node_modules/
+/imob-js-web/node_modules/
 
 # Ignorar pasta lib (Bower)
 /public/assets/lib/
